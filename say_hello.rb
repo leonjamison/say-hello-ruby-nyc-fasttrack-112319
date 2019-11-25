@@ -1,2 +1,5 @@
-def say_hello (Leon)
+def say_hello (name)
+  puts "Hello #{name}"
 end
+
+name = "Leon"
