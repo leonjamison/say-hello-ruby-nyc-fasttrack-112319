@@ -1,2 +1,2 @@
-def say_hello ("Leon")
+def say_hello (Leon)
 end
